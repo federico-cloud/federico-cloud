@@ -1,9 +1,9 @@
 👋👋👋BIENVENIDO!👋👋👋
 
-### CONTRIBUCIONES
+## CONTRIBUCIONES
 [![GitHub Streak](https://streak-stats.demolab.com?user=federico-cloud&border_radius=25&mode=weekly&border=000000&background=D0DDD5)](https://git.io/streak-stats)
 
-## Sobre mi
+## SOBRE MI
 Mi nombre es Federico Galan ,actualmente trabajo como soporte técnico nivel 1, soy un apasionado por la tecnología que arregla cosas y que de vez en cuando las rompe pero así es el camino aprender dar 1 paso para atrás para dar 2 hacia adelante.  
 
 Actualmente me encuentro cursando en:
@@ -15,8 +15,7 @@ Además, cuando tengo un tiempo libre hago algún que otro curso de [Udemy](http
 ### 📨 CONTACTO      [Linkedin](https://www.linkedin.com/in/federico-ezequiel-galan/)
 ### 💼 PORTAFOLIO    ... EN PROGRESO ...
 
-
-# HARD SKILLS
+## HARD SKILLS
 <div style='width: 50%; display: inline-block;'>
   <div style='display:flex; align:center; justify-content:center; flex-direction: row;'>
     <img width='50px' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
